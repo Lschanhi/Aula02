@@ -1,0 +1,14 @@
+D:\Lucas - 2DS\DSISTEMA\Aula02-06-08\Aula02RH\obj\Debug\net9.0\Aula02RH.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas - 2DS\DSISTEMA\Aula02-06-08\Aula02RH\obj\Debug\net9.0\Aula02RH.AssemblyInfoInputs.cache
+D:\Lucas - 2DS\DSISTEMA\Aula02-06-08\Aula02RH\obj\Debug\net9.0\Aula02RH.AssemblyInfo.cs
+D:\Lucas - 2DS\DSISTEMA\Aula02-06-08\Aula02RH\obj\Debug\net9.0\Aula02RH.csproj.CoreCompileInputs.cache
+D:\Lucas - 2DS\DSISTEMA\Aula02-06-08\Aula02RH\bin\Debug\net9.0\Aula02RH.exe
+D:\Lucas - 2DS\DSISTEMA\Aula02-06-08\Aula02RH\bin\Debug\net9.0\Aula02RH.deps.json
+D:\Lucas - 2DS\DSISTEMA\Aula02-06-08\Aula02RH\bin\Debug\net9.0\Aula02RH.runtimeconfig.json
+D:\Lucas - 2DS\DSISTEMA\Aula02-06-08\Aula02RH\bin\Debug\net9.0\Aula02RH.dll
+D:\Lucas - 2DS\DSISTEMA\Aula02-06-08\Aula02RH\bin\Debug\net9.0\Aula02RH.pdb
+D:\Lucas - 2DS\DSISTEMA\Aula02-06-08\Aula02RH\obj\Debug\net9.0\Aula02RH.dll
+D:\Lucas - 2DS\DSISTEMA\Aula02-06-08\Aula02RH\obj\Debug\net9.0\refint\Aula02RH.dll
+D:\Lucas - 2DS\DSISTEMA\Aula02-06-08\Aula02RH\obj\Debug\net9.0\Aula02RH.pdb
+D:\Lucas - 2DS\DSISTEMA\Aula02-06-08\Aula02RH\obj\Debug\net9.0\Aula02RH.genruntimeconfig.cache
+D:\Lucas - 2DS\DSISTEMA\Aula02-06-08\Aula02RH\obj\Debug\net9.0\ref\Aula02RH.dll
