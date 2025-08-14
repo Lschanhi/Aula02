@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Lucas - 2DS\\DSISTEMA\\Aula02-06-08\\Aula02RH\\Aula02RH.csproj",
+      "projectUniqueName": "D:\\Lucas - 2DS\\DSISTEMA\\Aula03-13-08\\Aula02RH\\Aula02RH.csproj",
       "projectName": "Aula02RH",
-      "projectPath": "D:\\Lucas - 2DS\\DSISTEMA\\Aula02-06-08\\Aula02RH\\Aula02RH.csproj",
+      "projectPath": "D:\\Lucas - 2DS\\DSISTEMA\\Aula03-13-08\\Aula02RH\\Aula02RH.csproj",
       "packagesPath": "D:\\NugetPackages",
-      "outputPath": "D:\\Lucas - 2DS\\DSISTEMA\\Aula02-06-08\\Aula02RH\\obj\\",
+      "outputPath": "D:\\Lucas - 2DS\\DSISTEMA\\Aula03-13-08\\Aula02RH\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

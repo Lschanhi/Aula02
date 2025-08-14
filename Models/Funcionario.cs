@@ -37,5 +37,19 @@ namespace Aula02RH.Models
             return desconto;
         }
 
+        private int ContarCaracteres(string dado)
+        {
+            return dado.Length;
+        }
+
+        public bool ValidarCPF()
+        {
+            if (ContarCaracteres(Cpf) == 11)
+                return true;
+
+            else
+                return false;
+        }
+
     }
 }
